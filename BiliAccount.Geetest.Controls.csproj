@@ -140,8 +140,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CefSharp.WinForms" Version="86.0.241" />
-    <PackageReference Include="CefSharp.Wpf" Version="89.0.170" />
+    <PackageReference Include="CefSharp.WinForms" Version="89.0.170" />
+    <PackageReference Include="CefSharp.Wpf" Version="86.0.241" />
   </ItemGroup>
 
   <ItemGroup Condition="'$(Configuration)'=='Release'">
